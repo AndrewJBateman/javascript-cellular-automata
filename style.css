@@ -1,0 +1,14 @@
+.row div {
+  height: 8px;
+  display: inline-block;
+  width: 8px;
+}
+.row div.active {
+  background-color: red;
+}
+.row div.inactive {
+  background-color: #99CCFF;
+}
+body {
+  margin: 0
+}
