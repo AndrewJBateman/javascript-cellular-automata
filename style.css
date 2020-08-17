@@ -4,10 +4,10 @@
   width: 8px;
 }
 .row div.active {
-  background-color: red;
+  background-color: rgb(16, 19, 202);
 }
 .row div.inactive {
-  background-color: #99CCFF;
+  background-color: #b1c8df;
 }
 body {
   margin: 0
