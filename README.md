@@ -1,8 +1,12 @@
 # :zap: Javascript Cellular Automatia
 
 * Javascript used to produce an automata; a regular grid of cells, each one in a finite number of states. Code from [Youtube Cellular Automata - Pair Programming - FunFunFunction #49](https://www.youtube.com/watch?v=bc-fVdbjAwk)
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-*** Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/javascript-cellular-automata?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/javascript-cellular-automata?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/javascript-cellular-automata?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/javascript-cellular-automata?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -61,6 +65,10 @@ function randomizeRow(rowDiv) {
 * [Youtube Cellular Automata - Pair Programming - FunFunFunction #49](https://www.youtube.com/watch?v=bc-fVdbjAwk)
 * [Wikipedia: Cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton)
 
+## :file_folder: License
+
+* N/A
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
